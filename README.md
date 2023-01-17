@@ -2,7 +2,7 @@
 UCLA CS 32 W22 Project 3
 ---
 This feminist version of SuperMario Brothers implements class heirarchy and a STL List data structure \
-containing pointers to dynamically allocate data with object oreinted programming (C++). \
+containing pointers to dynamically allocate data with object oreinted programming (C++). 
 
 Game Features
 - 3 powerups (star ⭐, flower 🌹, and mushroom 🍄)
