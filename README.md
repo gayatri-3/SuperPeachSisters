@@ -12,7 +12,7 @@ Game Features
 
 Score 100/100\
 \
-See a preview of the game below. \
+See a preview of the game below. 
 
 
 ![Screenshot (67)](https://user-images.githubusercontent.com/97005531/213014111-afff6e5c-4bb0-4e00-9dc6-e61b2c445dc8.png)
