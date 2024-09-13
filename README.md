@@ -10,10 +10,10 @@ Game Features
 - 1 Mario needing to be rescured
 - many more surprises!
 
-Score 100/100\
+Score 100/100
 
 *Disclaimer: This repository is only for the purpose of displaying my projects to prospective employers. \
-Any usage of my code in CS 32 in subsequent CS 32 projects was done without my knowledge.*
+Any usage of my code in subsequent CS 32 projects was done without my knowledge.*
 
 See a preview of the game below. 
 
